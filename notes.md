@@ -33,3 +33,4 @@
   - Scenario #1 🟢 - test3
   - Scenario #1 ⚙
   - Scenario #1 🔴
+  - Scenario #1 ⚙
