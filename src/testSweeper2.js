@@ -1,4 +1,4 @@
 function testSweeper2(a, b) {
-  return a + b + 1;
+  return a + b;
 }
 module.exports = testSweeper2;
