@@ -23,3 +23,4 @@
   - Scenario #1 🔴 - Initial test case written
   - Scenario #1 ⚙
   - Scenario #1 🟢 - should be OK now
+  - Scenario #1 ⚙ - coverage failure
