@@ -1,5 +1,5 @@
 function testSweeper2(a, b) {
-  return a + b + 1;
+  return a + b;
 }
 
 function not_covered(a, b) {
