@@ -31,3 +31,4 @@
   - Scenario #1 🟢 - test
   - Scenario #1 🟢 - test2
   - Scenario #1 🟢 - test3
+  - Scenario #1 ⚙
