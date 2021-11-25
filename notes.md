@@ -18,8 +18,8 @@
 
 ## Progress
 
-- Scenario # 🔴 - Initial test case written
-  \n### Pomodoro 🍅 1
+### Pomodoro 🍅 1
+
 - User story #1 🚧
   - Scenario #1 🔴 - Initial test case written
   - Scenario #1 ⚙
@@ -36,6 +36,9 @@
   - Scenario #1 🔴
   - Scenario #1 ⚙
   - Scenario #1 🟢 - all green
+
 ### Pomodoro 🍅 2
+
 - User story #1 🚧
   - Scenario #2 🔴 - red 1
+  - Scenario #2 🔨
