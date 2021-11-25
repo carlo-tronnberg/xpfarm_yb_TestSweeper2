@@ -25,3 +25,5 @@
   - Scenario #1 🟢 - should be OK now
   - Scenario #1 ⚙ - coverage failure
   - Scenario #1 ⚙
+  - Scenario #1 🔴
+  - Scenario #1 🔴
