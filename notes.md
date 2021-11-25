@@ -3,22 +3,23 @@
 ## Legend
 
 <pre>
-- ?? Pomodoro
-- ?? Red phase
-- ?? Green phase
-- ?? In progress
-- ? Ready
-- ? Blocker
-- ?  Warning
-- ?? Idea
-- ?? Pinned idea
-- ?? Note
-- ?? Refactoring
+- 🍅 Pomodoro
+- 🔴 Red phase
+- 🟢 Green phase
+- 🚧 In progress
+- ✅ Ready
+- ⛔ Blocker
+- ⚠  Warning 
+- 💡 Idea
+- 📌 Pinned idea
+- 📝 Note 
+- 🔨 Refactoring
 </pre>
 
 ## Progress
-  - Scenario # 🔴 - Initial test case written
-\n### Pomodoro 🍅 1
+
+- Scenario # 🔴 - Initial test case written
+  \n### Pomodoro 🍅 1
 - User story #1 🚧
   - Scenario #1 🔴 - Initial test case written
   - Scenario #1 ⚙
@@ -35,3 +36,6 @@
   - Scenario #1 🔴
   - Scenario #1 ⚙
   - Scenario #1 🟢 - all green
+### Pomodoro 🍅 2
+- User story #1 🚧
+  - Scenario #2 🔴 - red 1

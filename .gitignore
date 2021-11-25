@@ -120,9 +120,8 @@ dist
 test.ps1
 runTest.ps1
 git_create.bat
-.pomodoroCounter.txt
-.scenarioCounter.txt
-.ustoryCounter.txt
+.pomodoroCounter.conf
+.scenarioCounter.conf
+.ustoryCounter.conf
+.autopush.conf
 tsnotes.md
-#coverage/lcov-report/index.html
-#coverage/lcov-report/testSweeper.js.html
