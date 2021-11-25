@@ -42,3 +42,4 @@
 - User story #1 🚧
   - Scenario #2 🔴 - red 1
   - Scenario #2 🔨
+  - Scenario #2 🟢 - This is a sample comment
