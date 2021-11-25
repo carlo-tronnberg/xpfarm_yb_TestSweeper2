@@ -17,3 +17,7 @@
 </pre>
 
 ## Progress
+  - Scenario # 🔴 - Initial test case written
+\n### Pomodoro 🍅 1
+- User story #1 🚧
+  - Scenario #1 🔴 - Initial test case written
